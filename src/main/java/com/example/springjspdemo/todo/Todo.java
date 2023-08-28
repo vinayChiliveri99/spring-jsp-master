@@ -2,7 +2,7 @@ package com.example.springjspdemo.todo;
 
 import java.time.LocalDate;
 
-import javax.validation.constraints.Size;
+import jakarta.validation.constraints.Size;
 
 public class Todo {
 
